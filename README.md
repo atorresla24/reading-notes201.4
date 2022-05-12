@@ -106,3 +106,8 @@
   4. Social skills
   5. Job interview readiness
   6. Work environment readiness
+
+## Things I want to know more about
+
+* I want to know more about fixed width layout and liquid layout
+* I want to know how to better utilize links
